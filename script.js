@@ -26,8 +26,8 @@ const kimchi = {
 
 // Obstacles
 const obstacles = [];
-const obstacleWidth = 50;
-const obstacleGap = 333;
+const obstacleWidth = 100;
+const obstacleGap = 314;
 
 function drawKimchi() {
   ctx.fillStyle = '#ff6347'; // Kimchi jar color
